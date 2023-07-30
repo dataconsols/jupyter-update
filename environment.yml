@@ -9,7 +9,6 @@ dependencies:
   - matplotlib-base
   - seaborn
   - plotly>=5.10
-  - jupytext
   - beautifulsoup4
 
   
