@@ -12,5 +12,3 @@ dependencies:
   - IPython
   - packaging
   - pip
-  - pip:
-    - jupyter-book >= 0.11
