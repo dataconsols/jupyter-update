@@ -4,8 +4,11 @@ channels:
   - https://repo.mamba.pm/conda-forge
 dependencies:
   - scikit-learn >= 1.2.1
-  - pandas
+  - pandas >= 1
   - matplotlib-base
   - seaborn
   - plotly >= 5.10
+  - jupytext
+  - packaging
+  - beautifulsoup4
   
