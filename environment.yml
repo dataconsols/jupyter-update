@@ -4,6 +4,7 @@ channels:
   - https://repo.mamba.pm/conda-forge
 dependencies:
   - numpy >=1.21.6,<1.27.0
+  - scikit-image
   - scikit-learn
   - pandas >=1
   - matplotlib-base
