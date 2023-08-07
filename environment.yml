@@ -4,10 +4,8 @@ channels:
   - https://repo.mamba.pm/conda-forge
 dependencies:
   - numpy >=1.21.6,<1.25.0
-  - pandas >=1
-  - matplotlib-base
   - seaborn
-  - plotly>=5.10
+  - plotly
   - beautifulsoup4
   - matplotlib
   - scikit-image
