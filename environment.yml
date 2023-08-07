@@ -4,6 +4,7 @@ channels:
   - https://repo.mamba.pm/conda-forge
 dependencies:
   - scikit-learn
+  - sklearn
   - pandas >=1
   - matplotlib-base
   - seaborn
