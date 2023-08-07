@@ -9,5 +9,12 @@ dependencies:
   - seaborn
   - plotly>=5.10
   - beautifulsoup4
+  - matplotlib
+  - scikit-image
+  - pandas
+  - seaborn
+  - Pillow
+  - sphinx-gallery
+  - scikit-learn
 
   
