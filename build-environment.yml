@@ -2,7 +2,13 @@ name: build-env
 channels:
   - conda-forge
 dependencies:
-  - python=3.9
+  - matplotlib
+  - scikit-image
+  - pandas
+  - seaborn
+  - Pillow
+  - sphinx-gallery
+  - scikit-learn
   - cython
   - Ipython
   - pip
