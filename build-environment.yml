@@ -2,17 +2,8 @@ name: build-env
 channels:
   - conda-forge
 dependencies:
-  - matplotlib
-  - scikit-image
-  - pandas
-  - seaborn
-  - Pillow
-  - sphinx-gallery
-  - scikit-learn
-  - cython
-  - Ipython
+  - python
   - pip
-  - scipy
   - jupyter_server
   - jupyterlite-core >=0.1.0,<0.2.0
   - jupyterlite-xeus-python >=0.9.2,<0.10.0
