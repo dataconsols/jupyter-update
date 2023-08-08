@@ -8,9 +8,7 @@ dependencies:
   - plotly
   - beautifulsoup4
   - matplotlib
-  - scikit-image
   - pandas
-  - seaborn
   - Pillow
   - scikit-learn
 
